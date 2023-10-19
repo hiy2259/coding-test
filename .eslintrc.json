@@ -1,0 +1,46 @@
+{
+  "root": true,
+  "env": {
+    "browser": false,
+    "node": true,
+    "commonjs": true,
+    "es2021": true
+  },
+  "parserOptions": {
+      "ecmaVersion": "latest"
+  },
+  "ignorePatterns": [],
+  "overrides": [],
+  "extends": "eslint:recommended",
+  // 0: off, 1: warn, 2: error
+  "rules": {
+    // "camelcase": [1, { "properties": "never" }],
+    "comma-dangle": 0, // object property 등에서 마지막 쉼표 - 허용
+    "comma-spacing": 1, // 쉼표 뒤 공백
+    "comma-style": [1, "last"],
+    "curly": 0, // 제어문 중괄호({}) 필수
+    "dot-location": [1, "property"],
+    "eol-last": [1, "always"],
+    "eqeqeq": 2, // == 연산자 금지
+    "func-call-spacing": 1,
+    "guard-for-in": 1, // for-in 문 사용시 if 필수
+    "key-spacing": [1, { "mode": "strict" }],
+    "keyword-spacing": 1, // 예약어 뒤 공백
+    "no-array-constructor": 2, // new Array() 금지
+    "no-caller": 2, // arguments.callee / arguments.caller 금지
+    "no-extend-native": 2, // native 객체 확장 금지
+    "no-extra-boolean-cast": 1,
+    // "no-invalid-this": 2,
+    "no-multiple-empty-lines": 1,
+    "no-redeclare": 1,
+    "no-trailing-spaces": 1,
+    "no-unneeded-ternary": 1,
+    "no-unused-vars": 1,
+    "no-useless-escape": 1, // 불필요한 \ 사용
+    "one-var": [2, "never"], // 변수 선언시 var 각각
+    "quotes": [2, "double", { "allowTemplateLiterals": true }],
+    "semi": 2, // ; 필수
+    "space-infix-ops": 1 // 연산자 사이에 공백
+    // "strict": [2, "global"]
+  }
+}
