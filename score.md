@@ -1,5 +1,5 @@
 
-### 문제 28 - 
+### 문제 28 - [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
 - 김상우:
 - 주소민:
 - 강이정:
@@ -157,7 +157,7 @@
 - 황인용: +5
 - 김상우: +4
 - 강이정: +5
-- 주소민:
+- 주소민: (예전에 풀었던 문제)
 - 최영철: +5
 
 ### 문제 5 - [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)
