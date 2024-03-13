@@ -1,10 +1,17 @@
 
-### 문제 28 - [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
+### 문제 29 - [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)
 - 김상우:
 - 주소민:
 - 강이정:
 - 황인용:
 - 최영철:
+
+### 문제 28 - [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
+- 김상우:
+- 주소민:
+- 강이정:
+- 황인용: +7
+- 최영철: +7
 
 ### 문제 27 - [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
 - 김상우: +9
@@ -159,6 +166,7 @@
 - 강이정: +5
 - 주소민: (예전에 풀었던 문제)
 - 최영철: +5
+- 오민영: +6
 
 ### 문제 5 - [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)
 - 황인용: +9
