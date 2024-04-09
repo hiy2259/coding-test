@@ -1,13 +1,20 @@
 
-### 문제 30-2 - Lv0: [주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839)
-- 김지혜:
-
-### 문제 30 - Lv2: [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+### 문제 31 - Lv3: [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)
 - 김상우:
 - 주소민:
 - 강이정:
 - 황인용:
 - 최영철:
+
+### 문제 30-2 - Lv0: [주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839)
+- 김지혜:
+
+### 문제 30 - Lv2: [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+- 김상우: +7
+- 주소민:
+- 강이정:
+- 황인용: +6
+- 최영철: (실패)
 
 ### 문제 29 - Lv3: [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)
 - 김상우:
@@ -185,7 +192,7 @@
 - 강이정: +8
 - 주소민:
 - 최영철: +8
-- 오민영:
+- 오민영: (실패)
 
 ### 문제 4 - Lv0: [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876?language=javascript)
 - 김상우: +7
@@ -198,6 +205,7 @@
 - 황인용: +10
 - 최영철: +10
 - 강이정: +10
+- 오민영:
 
 ### 문제 2 - Lv0: [홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935)
 - 김지혜: +1
