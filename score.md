@@ -1,13 +1,23 @@
 
-### 문제 31 - Lv3: [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)
+### 문제 32-2 - Lv0: [x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867)
+- 김지혜:
+
+### 문제 32 - Lv2: [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
 - 김상우:
 - 주소민:
 - 강이정:
 - 황인용:
 - 최영철:
 
+### 문제 31 - Lv3: [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)
+- 김상우:
+- 주소민: (실패)
+- 강이정: +19
+- 황인용:
+- 최영철: (실패)
+
 ### 문제 30-2 - Lv0: [주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839)
-- 김지혜:
+- 김지혜: +4
 
 ### 문제 30 - Lv2: [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
 - 김상우: +7
@@ -100,12 +110,13 @@
 - 황인용: +15
 - 최영철: +16
 
-### 문제 17 - Lv1: [카드뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)
+### 문제 17 - Lv1: [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)
 - 김상우: +8
 - 주소민: +4
 - 강이정: (실패)
 - 황인용: +7
 - 최영철: +7
+- 오민영:
 
 ### 문제 16 - Lv2: [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 - 김상우: +9
@@ -205,7 +216,7 @@
 - 황인용: +10
 - 최영철: +10
 - 강이정: +10
-- 오민영:
+- 오민영: +14
 
 ### 문제 2 - Lv0: [홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935)
 - 김지혜: +1
