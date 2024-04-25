@@ -1,30 +1,52 @@
 
-### 문제 32-2 - Lv0: [x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867)
-- 김지혜:
-
-### 문제 32 - Lv2: [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
+### 코딩테스트 33
+#### Lv3: [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
 - 김상우:
 - 주소민:
 - 강이정:
 - 황인용:
 - 최영철:
 
-### 문제 31 - Lv3: [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)
+#### Lv1: [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
+- 오민영:
+
+#### Lv1: [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
+- 김지혜:
+
+
+### 코딩테스트 32
+#### Lv2: [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
+- 김상우: +11
+- 주소민: +8
+- 강이정: +7
+- 황인용: +11
+- 최영철: +10
+
+#### Lv0: [x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867)
+- 김지혜: +2
+
+
+### 코딩테스트 31
+#### Lv3: [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)
 - 김상우:
 - 주소민: (실패)
 - 강이정: +19
 - 황인용:
 - 최영철: (실패)
 
-### 문제 30-2 - Lv0: [주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839)
-- 김지혜: +4
 
-### 문제 30 - Lv2: [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+### 코딩테스트 30
+#### Lv2: [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
 - 김상우: +7
 - 주소민:
 - 강이정:
 - 황인용: +6
 - 최영철: (실패)
+
+#### Lv0: [주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839)
+- 김지혜: +4
+
+---
 
 ### 문제 29 - Lv3: [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)
 - 김상우:
@@ -116,7 +138,7 @@
 - 강이정: (실패)
 - 황인용: +7
 - 최영철: +7
-- 오민영:
+- 오민영: +18
 
 ### 문제 16 - Lv2: [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 - 김상우: +9
