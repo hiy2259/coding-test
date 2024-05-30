@@ -1,19 +1,30 @@
 
+### 코딩테스트 35
 
-### 코딩테스트 34
-#### Lv2: [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)
+#### Lv1: [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)
 - 김상우:
 - 주소민:
 - 강이정:
 - 황인용:
 - 최영철:
 - 장소라:
-
-#### Lv1: [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)
 - 오민영:
 
-#### Lv1: [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
+#### Lv1: [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)
 - 김지혜:
+
+
+### 코딩테스트 34
+#### Lv2: [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)
+- 김상우: +17
+- 주소민: (실패)
+- 강이정:
+- 황인용: (실패)
+- 최영철: (실패)
+- 장소라: (실패)
+
+#### Lv1: [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
+- 김지혜: +4
 
 
 ### 코딩테스트 33
